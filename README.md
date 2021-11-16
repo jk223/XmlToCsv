@@ -3,6 +3,9 @@
 - Validation added
 - Testcases implemented
 
+#Output files 
+- csv files will be written to \Gentrack_JagmeetPOC\Gentrack_JagmeetPOC\bin\Debug
+
 #Assumptions
 - It is assumed that lines in CSVIntervalData are separated by newline. More work need to be done if this not true
 - Logic can be optimized if the input file is very large, it can be read into multiple splits.
