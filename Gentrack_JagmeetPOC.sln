@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30802.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gentrack_JagmeetPOC", "Gentrack_JagmeetPOC\Gentrack_JagmeetPOC.csproj", "{E6043D5C-BB03-407C-B143-EE18C4012E32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gentrack_JagmeetPOCUnitTests", "Gentrack_JagmeetPOCUnitTests\Gentrack_JagmeetPOCUnitTests.csproj", "{412CD578-5225-45E5-BF1D-3F3E715ABEBE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9E2E769A-3A6C-4960-B721-032FA93D0423}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6043D5C-BB03-407C-B143-EE18C4012E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6043D5C-BB03-407C-B143-EE18C4012E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6043D5C-BB03-407C-B143-EE18C4012E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6043D5C-BB03-407C-B143-EE18C4012E32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{412CD578-5225-45E5-BF1D-3F3E715ABEBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{412CD578-5225-45E5-BF1D-3F3E715ABEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{412CD578-5225-45E5-BF1D-3F3E715ABEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{412CD578-5225-45E5-BF1D-3F3E715ABEBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FEA7190-0985-4D6D-9F2B-A7506A6B2816}
+	EndGlobalSection
+EndGlobal

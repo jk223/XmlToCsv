@@ -1,0 +1,14 @@
+C:\Users\Upsingh\source\repos\Gentrack_JagmeetPOC\Gentrack_JagmeetPOC\obj\Debug\Gentrack_JagmeetPOC.csprojAssemblyReference.cache
+C:\Users\Upsingh\source\repos\Gentrack_JagmeetPOC\Gentrack_JagmeetPOC\bin\Debug\DemoFileDatabases\testfile.xml
+C:\Users\Upsingh\source\repos\Gentrack_JagmeetPOC\Gentrack_JagmeetPOC\bin\Debug\Gentrack_JagmeetPOC.exe.config
+C:\Users\Upsingh\source\repos\Gentrack_JagmeetPOC\Gentrack_JagmeetPOC\bin\Debug\Gentrack_JagmeetPOC.exe
+C:\Users\Upsingh\source\repos\Gentrack_JagmeetPOC\Gentrack_JagmeetPOC\bin\Debug\Gentrack_JagmeetPOC.pdb
+C:\Users\Upsingh\source\repos\Gentrack_JagmeetPOC\Gentrack_JagmeetPOC\obj\Debug\Gentrack_JagmeetPOC.exe
+C:\Users\Upsingh\source\repos\Gentrack_JagmeetPOC\Gentrack_JagmeetPOC\obj\Debug\Gentrack_JagmeetPOC.pdb
+D:\My projects\gentrack\Gentrack_JagmeetPOC\Gentrack_JagmeetPOC\bin\Debug\DemoFileDatabases\testfile.xml
+D:\My projects\gentrack\Gentrack_JagmeetPOC\Gentrack_JagmeetPOC\bin\Debug\Gentrack_JagmeetPOC.exe.config
+D:\My projects\gentrack\Gentrack_JagmeetPOC\Gentrack_JagmeetPOC\bin\Debug\Gentrack_JagmeetPOC.exe
+D:\My projects\gentrack\Gentrack_JagmeetPOC\Gentrack_JagmeetPOC\bin\Debug\Gentrack_JagmeetPOC.pdb
+D:\My projects\gentrack\Gentrack_JagmeetPOC\Gentrack_JagmeetPOC\obj\Debug\Gentrack_JagmeetPOC.csprojAssemblyReference.cache
+D:\My projects\gentrack\Gentrack_JagmeetPOC\Gentrack_JagmeetPOC\obj\Debug\Gentrack_JagmeetPOC.exe
+D:\My projects\gentrack\Gentrack_JagmeetPOC\Gentrack_JagmeetPOC\obj\Debug\Gentrack_JagmeetPOC.pdb
